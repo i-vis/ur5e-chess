@@ -30,7 +30,7 @@ grab_height = 0.015 # !!! figure this height out so that robot doesn't break pie
 
 # Vision Variables
 # Phone camera for now
-CAM_PATH = "http://192.168.56.11:4747/video?1920x1080"
+CAM_PATH = "http://10.42.0.245:4747/video?1920x1080"
 ROBOT_IP = "192.168.1.105"
 
 # Robot functions
