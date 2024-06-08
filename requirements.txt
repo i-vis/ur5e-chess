@@ -3,4 +3,4 @@ chess
 stockfish
 icecream
 opencv-python
-
+onnx
